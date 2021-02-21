@@ -163,3 +163,7 @@ table#report_list .report_title {
 table#report_list .report_action {
     width: 130px;
 }
+
+h3 {
+    font-size: larger;
+}
